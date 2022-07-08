@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# GIS packages
+.backup/
+*.gdb
+*.aprx
+*.tbx
+/00_Source_Data/
+/01_New_Data/
+/ImportLog/
+/Index/
